@@ -1,0 +1,301 @@
+﻿Problem,Attempts,Confidence,Difficulty,Last Reviewed,Link,Module,Needs Review,Notes,PDF Page,Pattern,Priority,Repeat Offender,Status,Sub Pattern,Time Taken
+Remove Duplicates from Sorted Array,0,0,,,,M1,No,,14,Two Pointer,P1,No,TODO,Slow Fast,0
+Remove Duplicates from Sorted Array II,0,0,,,,M0,No,,16,Two Pointer,P2,No,TODO,Slow Fast,0
+Remove Element,0,0,,,,M1,No,,18,Two Pointer,P1,No,IN PROGRESS,Overwrite,0
+Move Zeroes,0,0,,,,M1,No,,19,Two Pointer,P1,No,TODO,Stable Movement,0
+Candy,0,0,,,,M0,No,,20,Greedy,P2,No,TODO,Two Pass,0
+Trapping Rain Water,0,0,,,,M0,No,,22,Two Pointer,P1,No,TODO,Left Right Max,0
+Product of Array Except Self,0,0,,,,M0,No,,24,Prefix Product,P1,No,TODO,Left Right Prefix,0
+Minimum Size Subarray Sum,0,0,,,,M2,No,,26,Sliding Window,P1,No,TODO,Dynamic Window,0
+Summary Ranges,0,0,,,,M0,No,,28,Array,P3,No,TODO,Range Tracking,0
+Missing Ranges,0,0,,,,M0,No,,29,Array,P2,No,TODO,Range Tracking,0
+Merge Intervals,0,0,,,,M0,No,,30,Intervals,P1,No,TODO,Merge,0
+Insert Interval,0,0,,,,M0,No,,31,Intervals,P1,No,TODO,Insert Merge,0
+Partition Labels,0,0,,,,M0,No,,34,Greedy,P2,No,TODO,Boundary Expansion,0
+Find And Replace in String,0,0,,,,M0,No,,36,String,P3,No,TODO,Simulation,0
+One Edit Distance,0,0,,,,M0,No,,37,String,P2,No,TODO,Two Pointer,0
+Merge Sorted Array,0,0,,,,M1,No,,38,Two Pointer,P1,No,TODO,Backward Merge,0
+Is Subsequence,0,0,,,,M0,No,,40,Two Pointer,P2,No,TODO,Sequential Scan,0
+Backspace String Compare,0,0,,,,M0,No,,41,Stack Two Pointer,P2,No,TODO,Reverse Scan,0
+Repeated String Match,0,0,,,,M0,No,,43,String,P3,No,TODO,Pattern Matching,0
+Container With Most Water,0,0,,,,M1,No,,44,Two Pointer,P1,No,IN PROGRESS,Opposite Pointer,0
+Reverse Vowels of a String,0,0,,,,M0,No,,45,Two Pointer,P2,No,TODO,Swap,0
+Valid Palindrome,0,0,,,,M1,No,,46,Two Pointer,P1,No,TODO,Opposite Pointer,0
+Shortest Word Distance,0,0,,,,M0,No,,47,HashMap,P2,No,TODO,Distance Tracking,0
+Shortest Word Distance II,0,0,,,,M0,No,,48,HashMap,P2,No,TODO,Index Storage,0
+Shortest Word Distance III,0,0,,,,M0,No,,50,HashMap,P2,No,TODO,Distance Tracking,0
+Intersection of Two Arrays,0,0,,,,M0,No,,52,HashSet,P2,No,TODO,Lookup,0
+Intersection of Two Arrays II,0,0,,,,M0,No,,54,Two Pointer,P2,No,TODO,Sorted Merge,0
+Two Sum II Input array is sorted,0,0,,,,M1,No,,56,Two Pointer,P1,No,TODO,Opposite Pointer,0
+Two Sum III Data structure design,0,0,,,,M0,No,,57,Design,P2,No,TODO,Hash Lookup,0
+3Sum,0,0,,,,M1,No,,58,Two Pointer,P1,No,TODO,Fix And Reduce,0
+4Sum,0,0,,,,M0,No,,60,Two Pointer,P2,No,TODO,Nested Reduction,0
+3Sum Closest,0,0,,,,M1,No,,62,Two Pointer,P1,No,TODO,Optimization,0
+Wiggle Sort,0,0,,,,M0,No,,63,Greedy,P3,No,TODO,Local Swap,0
+Wiggle Subsequence,0,0,,,,M0,No,,64,Greedy,P2,No,TODO,State Tracking,0
+Longest Common Prefix,0,0,,,,M0,No,,65,String,P3,No,TODO,Horizontal Scan,0
+Next Permutation,0,0,,,,M0,No,,66,Two Pointer,P2,No,TODO,Reverse Suffix,0
+Search Insert Position,0,0,,,,M4,No,,68,Binary Search,P1,No,TODO,Classic,0
+Median of Two Sorted Arrays,0,0,,,,M0,No,,70,Binary Search,P3,No,TODO,Partition,0
+Find Minimum in Rotated Sorted Array,0,0,,,,M4,No,,72,Binary Search,P1,No,TODO,Rotated Search,0
+Find Minimum in Rotated Sorted Array II,0,0,,,,M0,No,,74,Binary Search,P2,No,TODO,Duplicates,0
+Find First and Last Position of Element in Sorted Array,0,0,,,,M4,No,,76,Binary Search,P1,No,TODO,Boundary,0
+Guess Number Higher or Lower,0,0,,,,M0,No,,78,Binary Search,P3,No,TODO,Classic,0
+First Bad Version,0,0,,,,M4,No,,80,Binary Search,P1,No,TODO,Boundary,0
+Search in Rotated Sorted Array,0,0,,,,M4,No,,82,Binary Search,P1,No,TODO,Rotated,0
+Search in Rotated Sorted Array II,0,0,,,,M0,No,,84,Binary Search,P2,No,TODO,Rotated Duplicate,0
+Longest Increasing Subsequence,0,0,,,,M0,No,,85,DP,P2,No,TODO,Sequence DP,0
+Count of Smaller Numbers After Self,0,0,,,,M0,No,,88,Advanced,P3,No,TODO,BIT SegmentTree,0
+Russian Doll Envelopes,0,0,,,,M0,No,,91,DP,P3,No,TODO,LIS,0
+HIndex,0,0,,,,M0,No,,93,Sorting,P2,No,TODO,Counting,0
+HIndex II,0,0,,,,M0,No,,95,Binary Search,P2,No,TODO,Sorted Counting,0
+Valid Anagram,0,0,,,,M3,No,,96,HashMap,P1,No,TODO,Frequency,0
+Group Shifted Strings,0,0,,,,M0,No,,98,HashMap,P3,No,TODO,Canonical Form,0
+Palindrome Pairs,0,0,,,,M0,No,,100,Trie HashMap,P3,No,TODO,Prefix Matching,0
+Line Reflection,0,0,,,,M0,No,,102,Geometry,P3,No,TODO,Hash,0
+Isomorphic Strings,0,0,,,,M3,No,,103,HashMap,P1,No,TODO,Bi Direction Map,0
+Two Sum,0,0,,,,M3,No,,104,HashMap,P1,No,TODO,Lookup,0
+Maximum Size Subarray Sum Equals k,0,0,,,,M3,No,,105,Prefix Sum,P1,No,TODO,Running Sum,0
+Subarray Sum Equals K,0,0,,,,M3,No,,107,Prefix Sum,P1,No,TODO,Running Sum,0
+Maximum Subarray,0,0,,,,M0,No,,108,Kadane,P1,No,TODO,Running Maximum,0
+Maximum Product Subarray,0,0,,,,M0,No,,111,DP,P2,No,TODO,State Tracking,0
+Longest Substring Without Repeating Characters,0,0,,,,M2,No,,112,Sliding Window,P1,No,TODO,Dynamic Window,0
+Longest Substring with At Most K Distinct Characters,0,0,,,,M2,No,,114,Sliding Window,P1,No,TODO,Dynamic Window,0
+Substring with Concatenation of All Words,0,0,,,,M0,No,,116,Sliding Window,P3,No,TODO,Multi Window,0
+Minimum Window Substring,0,0,,,,M2,No,,118,Sliding Window,P1,No,TODO,Contract Window,0
+Longest Substring with At Least K Repeating Characters,0,0,,,,M0,No,,120,Sliding Window,P3,No,TODO,Advanced Window,0
+Permutation in String,0,0,,,,M2,No,,122,Sliding Window,P1,No,TODO,Fixed Window,0
+Longest Consecutive Sequence,0,0,,,,M3,No,,124,HashSet,P1,No,TODO,Sequence Expansion,0
+Majority Element,0,0,,,,M3,No,,126,Array,P1,No,TODO,Boyer Moore,0
+Majority Element II,0,0,,,,M0,No,,128,Array,P2,No,TODO,Boyer Moore,0
+Increasing Triplet Subsequence,0,0,,,,M0,No,,129,Greedy,P2,No,TODO,State Tracking,0
+Find the Second Largest Number in an Array,0,0,,,,M0,No,,131,Array,P3,No,TODO,Tracking,0
+Word Ladder,0,0,,,,M9,No,,132,Graph,P1,No,TODO,BFS,0
+Word Ladder II,0,0,,,,M0,No,,134,Graph,P3,No,TODO,BFS Path,0
+Top K Frequent Elements,0,0,,,,M5,No,,136,Heap,P1,No,TODO,Top K,0
+Meeting Rooms II,0,0,,,,M5,No,,139,Heap,P1,No,TODO,Scheduling,0
+Meeting Rooms,0,0,,,,M0,No,,141,Intervals,P1,No,TODO,Conflict Detection,0
+Range Addition,0,0,,,,M0,No,,142,Prefix Sum,P3,No,TODO,Difference Array,0
+Merge K Sorted Arrays in Java,0,0,,,,M5,No,,144,Heap,P1,No,TODO,K Way Merge,0
+Merge k Sorted Lists,0,0,,,,M5,No,,146,Heap,P1,No,TODO,K Way Merge,0
+Rearrange String k Distance Apart,0,0,,,,M0,No,,147,Heap,P3,No,TODO,Greedy Heap,0
+Minimum Cost to Hire K Workers,0,0,,,,M0,No,,149,Heap,P3,No,TODO,Greedy,0
+Contains Duplicate,0,0,,,,M3,No,,151,HashSet,P1,No,TODO,Lookup,0
+Contains Duplicate II,0,0,,,,M2,No,,152,Sliding Window,P1,No,TODO,Window Set,0
+Contains Duplicate III,0,0,,,,M0,No,,153,Bucket Sort,P3,No,TODO,Window Bucket,0
+Max Sum of Rectangle No Larger Than K,0,0,,,,M0,No,,155,Prefix Sum,P3,No,TODO,Advanced,0
+Maximum Sum of Subarray Close to K,0,0,,,,M0,No,,158,Prefix Sum,P3,No,TODO,Ordered Prefix,0
+Sliding Window Maximum,0,0,,,,M2,No,,160,Monotonic Queue,P1,No,TODO,Deque,0
+Moving Average from Data Stream,0,0,,,,M0,No,,162,Queue,P2,No,TODO,Rolling Window,0
+Find Median from Data Stream,0,0,,,,M5,No,,163,Heap,P1,No,TODO,Dual Heap,0
+Data Stream as Disjoint Intervals,0,0,,,,M0,No,,165,Intervals,P3,No,TODO,Merge,0
+Linked List Random Node,0,0,,,,M0,No,,167,Linked List,P3,No,TODO,Reservoir Sampling,0
+Shuffle an Array,0,0,,,,M0,No,,168,Randomization,P3,No,TODO,Fisher Yates,0
+Sort List,0,0,,,,M0,No,,170,Linked List,P2,No,TODO,Merge Sort,0
+Quicksort Array in Java,0,0,,,,M0,No,,172,Sorting,P2,No,TODO,Partition,0
+Kth Largest Element in an Array,0,0,,,,M5,No,,175,Heap,P1,No,TODO,QuickSelect,0
+Sort Colors,0,0,,,,M1,No,,177,Two Pointer,P1,No,IN PROGRESS,Dutch Flag,0
+Maximum Gap,0,0,,,,M0,No,,178,Sorting,P3,No,TODO,Bucket,0
+Group Anagrams,0,0,,,,M3,No,,180,HashMap,P1,No,TODO,Canonical Key,0
+Ugly Number,0,0,,,,M0,No,,181,Math,P3,No,TODO,Prime Factors,0
+Ugly Number II,0,0,,,,M0,No,,182,Heap,P3,No,TODO,DP,0
+Super Ugly Number,0,0,,,,M0,No,,183,Heap,P3,No,TODO,DP,0
+Find K Pairs with Smallest Sums,0,0,,,,M0,No,,184,Heap,P2,No,TODO,K Merge,0
+Rotate Array in Java,0,0,,,,M0,No,,185,Two Pointer,P2,No,TODO,Reverse,0
+Reverse Words in a String II,0,0,,,,M0,No,,188,Two Pointer,P2,No,TODO,Reverse Segments,0
+Missing Number,0,0,,,,M6,No,,189,Cyclic Sort,P1,No,TODO,Index Placement,0
+Find the Duplicate Number,0,0,,,,M6,No,,190,Cyclic Sort,P1,No,TODO,Placement Detection,0
+First Missing Positive,0,0,,,,M6,No,,192,Cyclic Sort,P1,No,TODO,Index Placement,0
+Queue Reconstruction by Height,0,0,,,,M0,No,,194,Greedy,P3,No,TODO,Sorting,0
+Binary Watch,0,0,,,,M0,No,,195,Backtracking,P3,No,TODO,Generate,0
+Search a 2D Matrix,0,0,,,,M4,No,,198,Binary Search,P1,No,TODO,Flatten,0
+Search a 2D Matrix II,0,0,,,,M0,No,,199,Matrix Search,P2,No,TODO,Row Column,0
+Kth Smallest Element in a Sorted Matrix,0,0,,,,M4,No,,201,Heap,P2,No,TODO,Binary Search,0
+Design Snake Game,0,0,,,,M0,No,,203,Design,P3,No,TODO,Simulation,0
+Number of Islands II,0,0,,,,M0,No,,205,Union Find,P3,No,TODO,Dynamic Connectivity,0
+Number of Connected Components in an Undirected Graph,0,0,,,,M0,No,,207,Graph,P2,No,TODO,Union Find,0
+Most Stones Removed with Same Row or Column,0,0,,,,M0,No,,210,Union Find,P2,No,TODO,Components,0
+Longest Increasing Path in a Matrix,0,0,,,,M0,No,,213,Graph,P2,No,TODO,DFS Memo,0
+Word Search,0,0,,,,M11,No,,216,Backtracking,P1,No,TODO,DFS,0
+Word Search II,0,0,,,,M0,No,,219,Trie,P2,No,TODO,DFS,0
+Number of Islands,0,0,,,,M9,No,,223,Graph,P1,No,TODO,DFS BFS,0
+Find a Path in a Matrix,0,0,,,,M0,No,,226,Graph,P2,No,TODO,DFS Backtracking,0
+Sudoku Solver,0,0,,,,M0,No,,228,Backtracking,P3,No,TODO,Constraint DFS,0
+Valid Sudoku,0,0,,,,M0,No,,231,Matrix,P2,No,TODO,Validation,0
+Walls and Gates,0,0,,,,M0,No,,233,Graph,P2,No,TODO,Multi Source BFS,0
+Surrounded Regions,0,0,,,,M0,No,,236,Graph,P2,No,TODO,Boundary DFS,0
+Set Matrix Zeroes,0,0,,,,M0,No,,240,Matrix,P1,No,TODO,Marker Technique,0
+Spiral Matrix,0,0,,,,M0,No,,243,Matrix,P2,No,TODO,Boundary Traversal,0
+Spiral Matrix II,0,0,,,,M0,No,,247,Matrix,P3,No,TODO,Simulation,0
+Rotate Image,0,0,,,,M0,No,,249,Matrix,P1,No,TODO,Transpose Reverse,0
+Range Sum Query 2D Immutable,0,0,,,,M0,No,,250,Prefix Sum,P2,No,TODO,2D Prefix,0
+Shortest Distance from All Buildings,0,0,,,,M0,No,,253,Graph,P3,No,TODO,Multi BFS,0
+Best Meeting Point,0,0,,,,M0,No,,255,Greedy,P3,No,TODO,Median,0
+Game of Life,0,0,,,,M0,No,,256,Matrix,P3,No,TODO,In Place State,0
+TicTacToe,0,0,,,,M0,No,,258,Design,P3,No,TODO,State Tracking,0
+Sparse Matrix Multiplication,0,0,,,,M0,No,,261,Matrix,P2,No,TODO,Optimization,0
+Add Two Numbers,0,0,,,,M7,No,,263,Linked List,P1,No,TODO,Simulation,0
+Reorder List,0,0,,,,M7,No,,265,Linked List,P1,No,TODO,Reverse Merge,0
+Linked List Cycle,0,0,,,,M7,No,,269,Linked List,P1,No,TODO,Fast Slow,0
+Copy List with Random Pointer,0,0,,,,M7,No,,270,Linked List,P1,No,TODO,HashMap,0
+Merge Two Sorted Lists,0,0,,,,M7,No,,272,Linked List,P1,No,TODO,Merge,0
+Odd Even Linked List,0,0,,,,M0,No,,274,Linked List,P2,No,TODO,Partition,0
+Remove Duplicates from Sorted List,0,0,,,,M0,No,,276,Linked List,P2,No,TODO,Slow Fast,0
+Remove Duplicates from Sorted List II,0,0,,,,M0,No,,278,Linked List,P2,No,TODO,Delete Sequence,0
+Partition List,0,0,,,,M0,No,,279,Linked List,P2,No,TODO,Split Merge,0
+Intersection of Two Linked Lists,0,0,,,,M7,No,,280,Linked List,P1,No,TODO,Pointer Alignment,0
+Remove Linked List Elements,0,0,,,,M0,No,,282,Linked List,P2,No,TODO,Dummy Node,0
+Swap Nodes in Pairs,0,0,,,,M0,No,,283,Linked List,P2,No,TODO,Pointer Manipulation,0
+Reverse Linked List,0,0,,,,M7,No,,285,Linked List,P1,No,TODO,Pointer Reverse,0
+Reverse Linked List II,0,0,,,,M7,No,,287,Linked List,P1,No,TODO,Sublist Reverse,0
+Reverse Double Linked List,0,0,,,,M0,No,,289,Linked List,P3,No,TODO,Pointer Reverse,0
+Remove Nth Node From End of List,0,0,,,,M7,No,,291,Linked List,P1,No,TODO,Two Pointer Gap,0
+Palindrome Linked List,0,0,,,,M7,No,,293,Linked List,P1,No,TODO,Reverse Half,0
+Delete Node in a Linked List,0,0,,,,M0,No,,296,Linked List,P3,No,TODO,Value Copy,0
+Reverse Nodes in kGroup,0,0,,,,M7,No,,297,Linked List,P1,No,TODO,K Group Reverse,0
+Plus One Linked List,0,0,,,,M0,No,,300,Linked List,P2,No,TODO,Carry,0
+Binary Tree Preorder Traversal,0,0,,,,M8,No,,302,Tree,P1,No,TODO,DFS Preorder,0
+Binary Tree Inorder Traversal,0,0,,,,M8,No,,303,Tree,P1,No,TODO,DFS Inorder,0
+Binary Tree Postorder Traversal,0,0,,,,M8,No,,305,Tree,P1,No,TODO,DFS Postorder,0
+Binary Tree Level Order Traversal,0,0,,,,M8,No,,308,Tree,P1,No,TODO,BFS Level Order,0
+Binary Tree Level Order Traversal II,0,0,,,,M0,No,,310,Tree,P2,No,TODO,BFS Level Order,0
+Binary Tree Vertical Order Traversal,0,0,,,,M0,No,,312,Tree,P2,No,TODO,BFS Column,0
+Invert Binary Tree,0,0,,,,M8,No,,314,Tree,P1,No,TODO,DFS BFS,0
+Kth Smallest Element in a BST,0,0,,,,M8,No,,315,Tree,P1,No,TODO,BST Inorder,0
+Binary Tree Longest Consecutive Sequence,0,0,,,,M0,No,,317,Tree,P2,No,TODO,DFS State,0
+Validate Binary Search Tree,0,0,,,,M8,No,,319,Tree,P1,No,TODO,BST Bounds,0
+Flatten Binary Tree to Linked List,0,0,,,,M0,No,,321,Tree,P2,No,TODO,DFS Rewire,0
+Path Sum,0,0,,,,M8,No,,323,Tree,P1,No,TODO,DFS Path,0
+Path Sum II,0,0,,,,M8,No,,325,Tree,P1,No,TODO,DFS Backtracking,0
+Construct Binary Tree from Inorder and Postorder Traversal,0,0,,,,M0,No,,327,Tree,P2,No,TODO,Divide Conquer,0
+Construct Binary Tree from Preorder and Inorder Traversal,0,0,,,,M8,No,,329,Tree,P1,No,TODO,Divide Conquer,0
+Convert Sorted Array to Binary Search Tree,0,0,,,,M0,No,,331,Tree,P2,No,TODO,BST Construction,0
+Convert Sorted List to Binary Search Tree,0,0,,,,M0,No,,332,Tree,P3,No,TODO,BST Construction,0
+Minimum Depth of Binary Tree,0,0,,,,M0,No,,334,Tree,P2,No,TODO,BFS DFS,0
+Binary Tree Maximum Path Sum,0,0,,,,M8,No,,336,Tree,P1,No,TODO,DFS Postorder,0
+Balanced Binary Tree,0,0,,,,M8,No,,337,Tree,P1,No,TODO,DFS Height,0
+Symmetric Tree,0,0,,,,M8,No,,339,Tree,P1,No,TODO,Mirror DFS,0
+Binary Search Tree Iterator,0,0,,,,M0,No,,340,Tree,P2,No,TODO,Controlled Inorder,0
+Binary Tree Right Side View,0,0,,,,M8,No,,342,Tree,P1,No,TODO,BFS DFS,0
+Lowest Common Ancestor of a Binary Search Tree,0,0,,,,M0,No,,344,Tree,P2,No,TODO,BST Property,0
+Lowest Common Ancestor of a Binary Tree,0,0,,,,M8,No,,345,Tree,P1,No,TODO,DFS Recursion,0
+Most Frequent Subtree Sum,0,0,,,,M0,No,,347,Tree,P3,No,TODO,Postorder HashMap,0
+Verify Preorder Serialization of a Binary Tree,0,0,,,,M0,No,,349,Tree,P3,No,TODO,Slot Counting,0
+Populating Next Right Pointers in Each Node,0,0,,,,M0,No,,351,Tree,P2,No,TODO,BFS Pointer,0
+Populating Next Right Pointers in Each Node II,0,0,,,,M0,No,,354,Tree,P2,No,TODO,BFS Pointer,0
+Unique Binary Search Trees,0,0,,,,M0,No,,356,DP,P2,No,TODO,Catalan,0
+Unique Binary Search Trees II,0,0,,,,M0,No,,358,Tree,P3,No,TODO,Generate BST,0
+Sum Root to Leaf Numbers,0,0,,,,M0,No,,360,Tree,P2,No,TODO,DFS Path,0
+Count Complete Tree Nodes,0,0,,,,M0,No,,362,Tree,P2,No,TODO,Binary Tree Property,0
+Closest Binary Search Tree Value,0,0,,,,M0,No,,365,Tree,P2,No,TODO,BST Search,0
+Binary Tree Paths,0,0,,,,M0,No,,367,Tree,P2,No,TODO,DFS Path,0
+Maximum Depth of Binary Tree,0,0,,,,M8,No,,369,Tree,P1,No,TODO,DFS Height,0
+Recover Binary Search Tree,0,0,,,,M0,No,,370,Tree,P3,No,TODO,BST Inorder,0
+Same Tree,0,0,,,,M0,No,,371,Tree,P2,No,TODO,DFS Comparison,0
+Serialize and Deserialize Binary Tree,0,0,,,,M8,No,,372,Tree,P1,No,TODO,Serialization,0
+Inorder Successor in BST,0,0,,,,M0,No,,375,Tree,P2,No,TODO,BST Search,0
+Inorder Successor in BST II,0,0,,,,M0,No,,376,Tree,P3,No,TODO,Parent Pointer,0
+Find Leaves of Binary Tree,0,0,,,,M0,No,,378,Tree,P2,No,TODO,Postorder Height,0
+Largest BST Subtree,0,0,,,,M0,No,,380,Tree,P3,No,TODO,Postorder State,0
+Implement Trie (Prefix Tree),0,0,,,,M13,No,,382,Trie,P1,No,TODO,Prefix Tree,0
+Add and Search Word Data structure design,0,0,,,,M13,No,,386,Trie,P1,No,TODO,DFS Wildcard,0
+Range Sum Query Mutable,0,0,,,,M0,No,,390,Segment Tree,P3,No,TODO,Fenwick Tree,0
+The Skyline Problem,0,0,,,,M0,No,,394,Heap,P3,No,TODO,Sweep Line,0
+Implement Stack using Queues,0,0,,,,M10,No,,396,Stack Queue,P1,No,TODO,Simulation,0
+Implement Queue using Stacks,0,0,,,,M10,No,,398,Stack Queue,P1,No,TODO,Simulation,0
+Implement a Stack Using an Array in Java,0,0,,,,M10,No,,399,Stack,P1,No,TODO,Array Implementation,0
+Implement a Queue using an Array in Java,0,0,,,,M10,No,,401,Queue,P1,No,TODO,Array Implementation,0
+Evaluate Reverse Polish Notation,0,0,,,,M10,No,,403,Stack,P1,No,TODO,Expression Evaluation,0
+Valid Parentheses,0,0,,,,M10,No,,406,Stack,P1,No,TODO,Matching,0
+Longest Valid Parentheses,0,0,,,,M0,No,,407,Stack,P2,No,TODO,Index Tracking,0
+Min Stack,0,0,,,,M10,No,,408,Stack,P1,No,TODO,Auxiliary State,0
+Max Chunks To Make Sorted,0,0,,,,M0,No,,410,Greedy,P3,No,TODO,Prefix Max,0
+Maximal Rectangle,0,0,,,,M10,No,,411,Stack,P1,No,TODO,Monotonic Stack,0
+Mini Parser,0,0,,,,M0,No,,413,Stack,P3,No,TODO,Parsing,0
+Flatten Nested List Iterator,0,0,,,,M0,No,,415,Stack,P2,No,TODO,Lazy Iterator,0
+Nested List Weight Sum,0,0,,,,M0,No,,417,DFS,P2,No,TODO,Depth Weight,0
+Nested List Weight Sum II,0,0,,,,M0,No,,419,BFS,P3,No,TODO,Reverse Depth Weight,0
+Decode String,0,0,,,,M10,No,,421,Stack,P1,No,TODO,Parsing,0
+Evaluate math expression with plus minus and parentheses,0,0,,,,M10,No,,423,Stack,P1,No,TODO,Expression Evaluation,0
+Partition to K Equal Sum Subsets,0,0,,,,M11,No,,425,Backtracking,P1,No,TODO,Bucket Assignment,0
+Permutations,0,0,,,,M11,No,,427,Backtracking,P1,No,TODO,Choose Explore Unchoose,0
+Permutations II,0,0,,,,M11,No,,430,Backtracking,P1,No,TODO,Duplicate Pruning,0
+Permutation Sequence,0,0,,,,M0,No,,432,Math,P3,No,TODO,Factorial Number System,0
+Number of Squareful Arrays,0,0,,,,M0,No,,434,Backtracking,P3,No,TODO,Graph Pruning,0
+Generate Parentheses,0,0,,,,M11,No,,437,Backtracking,P1,No,TODO,Constraint Generation,0
+Combination Sum,0,0,,,,M11,No,,439,Backtracking,P1,No,TODO,Reuse Choice,0
+Combination Sum II,0,0,,,,M11,No,,441,Backtracking,P1,No,TODO,Duplicate Pruning,0
+Combination Sum III,0,0,,,,M11,No,,442,Backtracking,P1,No,TODO,Constraint Combination,0
+Combination Sum IV,0,0,,,,M12,No,,443,DP,P1,No,TODO,Combination Count,0
+Wildcard Matching,0,0,,,,M0,No,,444,DP,P3,No,TODO,String Matching,0
+Regular Expression Matching,0,0,,,,M0,No,,445,DP,P3,No,TODO,String Matching,0
+Expressive Words,0,0,,,,M0,No,,448,Two Pointer,P3,No,TODO,String Matching,0
+Get Target Number Using Number List and Arithmetic Operations,0,0,,,,M0,No,,450,Backtracking,P3,No,TODO,Expression Generation,0
+Flip Game,0,0,,,,M0,No,,452,Backtracking,P3,No,TODO,State Generation,0
+Flip Game II,0,0,,,,M0,No,,453,Backtracking,P3,No,TODO,Game State,0
+Word Pattern,0,0,,,,M0,No,,454,HashMap,P2,No,TODO,Bi Direction Map,0
+Word Pattern II,0,0,,,,M0,No,,455,Backtracking,P3,No,TODO,Bijection,0
+Scramble String,0,0,,,,M0,No,,457,DP,P3,No,TODO,Interval DP,0
+Remove Invalid Parentheses,0,0,,,,M0,No,,458,Backtracking,P2,No,TODO,BFS Pruning,0
+Shortest Palindrome,0,0,,,,M0,No,,460,String,P3,No,TODO,KMP,0
+Lexicographical Numbers,0,0,,,,M0,No,,462,DFS,P3,No,TODO,Implicit Trie,0
+Combinations,0,0,,,,M11,No,,464,Backtracking,P1,No,TODO,Choose Explore Unchoose,0
+Letter Combinations of a Phone Number,0,0,,,,M11,No,,465,Backtracking,P1,No,TODO,Choice Mapping,0
+Restore IP Addresses,0,0,,,,M11,No,,467,Backtracking,P1,No,TODO,Partition Validation,0
+Factor Combinations,0,0,,,,M0,No,,469,Backtracking,P2,No,TODO,Factor Generation,0
+Subsets,0,0,,,,M11,No,,470,Backtracking,P1,No,TODO,Include Exclude,0
+Subsets II,0,0,,,,M11,No,,472,Backtracking,P1,No,TODO,Duplicate Pruning,0
+Coin Change,0,0,,,,M12,No,,474,DP,P1,No,TODO,Unbounded Knapsack,0
+Palindrome Partitioning,0,0,,,,M11,No,,477,Backtracking,P1,No,TODO,Partition,0
+Palindrome Partitioning II,0,0,,,,M0,No,,479,DP,P2,No,TODO,Partition DP,0
+House Robber,0,0,,,,M12,No,,480,DP,P1,No,TODO,Take Skip,0
+House Robber II,0,0,,,,M12,No,,482,DP,P1,No,TODO,Circular Take Skip,0
+House Robber III,0,0,,,,M0,No,,483,DP,P2,No,TODO,Tree DP,0
+Jump Game,0,0,,,,M0,No,,484,Greedy,P1,No,TODO,Reachability,0
+Jump Game II,0,0,,,,M0,No,,486,Greedy,P1,No,TODO,Range Expansion,0
+Best Time to Buy and Sell Stock,0,0,,,,M12,No,,487,DP,P1,No,TODO,State Tracking,0
+Best Time to Buy and Sell Stock II,0,0,,,,M0,No,,488,Greedy,P1,No,TODO,Transaction Accumulation,0
+Best Time to Buy and Sell Stock III,0,0,,,,M0,No,,489,DP,P2,No,TODO,Transaction State,0
+Best Time to Buy and Sell Stock IV,0,0,,,,M0,No,,491,DP,P3,No,TODO,K Transaction State,0
+Dungeon Game,0,0,,,,M0,No,,493,DP,P3,No,TODO,Reverse Grid DP,0
+Decode Ways,0,0,,,,M12,No,,494,DP,P1,No,TODO,Sequence DP,0
+Perfect Squares,0,0,,,,M0,No,,495,DP,P2,No,TODO,Minimum Count,0
+Word Break,0,0,,,,M12,No,,496,DP,P1,No,TODO,Prefix DP,0
+Word Break II,0,0,,,,M0,No,,499,DP,P2,No,TODO,DFS Memo,0
+Minimum Window Subsequence,0,0,,,,M0,No,,502,DP,P3,No,TODO,Subsequence DP,0
+Maximal Square,0,0,,,,M12,No,,503,DP,P1,No,TODO,Grid DP,0
+Minimum Path Sum,0,0,,,,M12,No,,505,DP,P1,No,TODO,Grid DP,0
+Unique Paths,0,0,,,,M12,No,,507,DP,P1,No,TODO,Grid DP,0
+Unique Paths II,0,0,,,,M12,No,,509,DP,P1,No,TODO,Grid DP,0
+Paint House,0,0,,,,M0,No,,511,DP,P2,No,TODO,State Transition,0
+Paint House II,0,0,,,,M0,No,,513,DP,P3,No,TODO,Optimized State Transition,0
+Edit Distance in Java,0,0,,,,M12,No,,515,DP,P1,No,TODO,Two String DP,0
+Distinct Subsequences Total,0,0,,,,M0,No,,518,DP,P2,No,TODO,Two String DP,0
+Longest Palindromic Substring,0,0,,,,M12,No,,520,DP,P1,No,TODO,Palindrome DP,0
+Longest Common Subsequence,0,0,,,,M12,No,,522,DP,P1,No,TODO,Two String DP,0
+Longest Common Substring,0,0,,,,M12,No,,524,DP,P1,No,TODO,Two String DP,0
+LRU Cache,0,0,,,,M13,No,,526,Design,P1,No,TODO,HashMap Doubly Linked List,0
+Insert Delete GetRandom O(1),0,0,,,,M13,No,,529,Design,P1,No,TODO,HashMap Array,0
+Insert Delete GetRandom O(1) Duplicates allowed,0,0,,,,M0,No,,531,Design,P2,No,TODO,HashMap Array Set,0
+"Design a Data Structure with Insert, Delete and GetMostFrequent of O(1)",0,0,,,,M0,No,,533,Design,P3,No,TODO,HashMap Frequency Buckets,0
+Design Phone Directory,0,0,,,,M0,No,,536,Design,P2,No,TODO,Queue HashSet,0
+Design Twitter,0,0,,,,M13,No,,537,Design,P1,No,TODO,Heap HashMap,0
+Single Number,0,0,,,,M0,No,,540,Bit Manipulation,P1,No,TODO,XOR,0
+Single Number II,0,0,,,,M0,No,,541,Bit Manipulation,P2,No,TODO,Bit Counting,0
+Twitter Codility Problem Max Binary Gap,0,0,,,,M0,No,,542,Bit Manipulation,P3,No,TODO,Bit Scan,0
+Number of 1 Bits,0,0,,,,M0,No,,544,Bit Manipulation,P1,No,TODO,Bit Counting,0
+Reverse Bits,0,0,,,,M0,No,,545,Bit Manipulation,P2,No,TODO,Bit Shift,0
+Repeated DNA Sequences,0,0,,,,M0,No,,546,HashMap,P2,No,TODO,Rolling Hash,0
+Bitwise AND of Numbers Range,0,0,,,,M0,No,,548,Bit Manipulation,P2,No,TODO,Common Prefix,0
+Sum of Two Integers,0,0,,,,M0,No,,549,Bit Manipulation,P2,No,TODO,Bit Addition,0
+Counting Bits,0,0,,,,M0,No,,550,DP,P1,No,TODO,Bit DP,0
+Maximum Product of Word Lengths,0,0,,,,M0,No,,552,Bit Manipulation,P2,No,TODO,Bit Mask,0
+Gray Code,0,0,,,,M0,No,,553,Bit Manipulation,P3,No,TODO,XOR,0
+UTF8 Validation,0,0,,,,M0,No,,554,Bit Manipulation,P3,No,TODO,Bit Mask,0
+Course Schedule,0,0,,,,M9,No,,555,Graph,P1,No,TODO,Topological Sort,0
+Course Schedule II,0,0,,,,M9,No,,558,Graph,P1,No,TODO,Topological Sort,0
+Minimum Height Trees,0,0,,,,M0,No,,560,Graph,P2,No,TODO,Topological Leaf Trim,0
+Graph Valid Tree,0,0,,,,M9,No,,562,Graph,P1,No,TODO,DFS Union Find,0
+Clone Graph,0,0,,,,M9,No,,564,Graph,P1,No,TODO,DFS BFS,0
+Reconstruct Itinerary,0,0,,,,M0,No,,567,Graph,P2,No,TODO,Hierholzer DFS,0
+"Pow(x, n)",0,0,,,,M0,No,,568,Math,P1,No,TODO,Fast Exponentiation,0
