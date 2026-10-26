@@ -1,0 +1,821 @@
+Absolutely. Below is a **complete handover document** you can copy and paste into another ChatGPT or Copilot instance on your office laptop.
+
+I've included our career direction, your existing skills, your learning preferences, the AI roadmap, the project idea, the notebook strategy, the Excel tracker structure, and the exact point where we stopped.
+
+**Important:** Paste the entire content into the new instance. Then ask it to continue from the checkpoint at the end rather than restarting the planning process.
+
+---
+
+# AI / GenAI Career Transition
+
+## Complete Handover and Learning Context
+
+### 1. Purpose of This Handover
+
+I am transitioning toward AI and Generative AI (GenAI) application development and architecture.
+
+I have discussed my career goals, technical background, learning preferences, development environment, and a structured learning roadmap with another ChatGPT instance.
+
+I want you to continue that learning programme using the context below.
+
+**Do not restart the career-planning discussion or replace the roadmap without a clear reason.** Help me execute the agreed strategy, track my progress, and develop practical AI engineering skills.
+
+I am experienced in Java and enterprise backend development, but I am a complete novice when it comes to AI concepts. Please do not assume that I know terminology such as LLM, RAG, embeddings, vector databases, or agents.
+
+---
+
+# 2. My Professional Background
+
+* Total professional experience: 13+ years.
+* Java development experience: 10 years.
+* Strong background in Java, Spring Boot, microservices, REST APIs, Kafka, Redis, databases, distributed systems, cloud services, and enterprise application architecture.
+* Experience with HLD (High-Level Design), LLD (Low-Level Design), backend engineering, banking/payments-related systems, migration platforms, and notification systems.
+* My experience includes enterprise and BFSI environments.
+
+My existing strengths are backend engineering, Java development, distributed systems, and enterprise architecture.
+
+I do not want to abandon these skills and start my career from zero.
+
+Instead, I want to combine my existing experience with AI technologies.
+
+# 3. My Career Goals
+
+My target combination is:
+
+**Enterprise Backend Engineering + GenAI Application Development + AI System Architecture**
+
+Potential roles I want to work toward:
+
+1. Senior GenAI / AI Application Engineer
+2. AI Backend / AI Platform Engineer
+3. AI Solutions Architect
+4. Agentic AI Engineer
+
+I am not currently prioritising:
+
+* Forward-Deployed Engineer (FDE)
+* MLOps Engineer as my primary career track
+* ML research or model-training engineering
+
+My objective is to become capable of designing, implementing, debugging, and explaining reliable enterprise AI applications.
+
+I want to remain hands-on with coding while progressing toward architecture responsibilities.
+
+Do not assume that I need to train an LLM from scratch or become a machine-learning researcher to achieve this goal.
+
+Also, do not promise specific salary increases or assume that an AI job title automatically guarantees better compensation.
+
+---
+
+# 4. My Learning Preferences
+
+This section is particularly important.
+
+I am a novice in AI. At the beginning of this programme, I did not know what LLM or RAG meant.
+
+I need explanations that start from first principles.
+
+Whenever you introduce an important new concept, try to explain it in the following order.
+
+### A. Simple definition
+
+Explain what the term means in plain English.
+
+### B. Origin and context
+
+Explain why the concept was developed, what problem it solves, and how it fits into the broader AI ecosystem.
+
+I find the background or origin story helpful because it allows me to understand why a technology exists rather than memorising its definition.
+
+### C. Layman analogy
+
+Give me a familiar, everyday example that makes the concept easier to remember.
+
+For example, RAG can initially be explained using an open-book examination: retrieve the relevant pages from a book and use them to formulate an answer.
+
+### D. Technical explanation
+
+Explain how the concept works technically, using practical examples.
+
+Connect new concepts to Java, Spring Boot, databases, REST APIs, Kafka, or distributed systems whenever appropriate.
+
+### E. Visual explanation
+
+Use diagrams, sequence flows, component diagrams, or pipe diagrams when they make the concept easier to understand.
+
+I often understand a concept at a high level but struggle to visualise how it works in actual code.
+
+If that happens, walk me through the code step by step.
+
+### F. Notebook summary
+
+At the end of a lesson, give me a concise summary of the important concepts I should write down.
+
+### G. Recall questions
+
+Ask me a few questions to test whether I genuinely understand the topic.
+
+Do not simply explain everything and immediately move to the next topic.
+
+Allow me to answer in my own words. Correct misunderstandings and help me build a proper mental model.
+
+I prefer concise, interview-ready explanations with enough detail to understand the reasoning.
+
+Do not make explanations unnecessarily long, but do not sacrifice understanding for brevity.
+
+---
+
+# 5. My Physical and Digital Notebook Strategy
+
+I plan to maintain two notebooks.
+
+## A. Physical notebook
+
+I will use a pen and paper to record:
+
+* Important definitions.
+* Short technical explanations.
+* Diagrams and mental models.
+* Important differences between concepts.
+* Interview-ready answers.
+* Common mistakes.
+* Questions I struggle to answer.
+* Short revision summaries.
+
+The physical notebook should contain information I want to recall without relying on a computer.
+
+I do not want to copy every explanation word for word.
+
+Instead, encourage me to close my notes and write the concepts in my own words.
+
+## B. Digital notebook using OneNote
+
+I will use OneNote for more detailed information, including:
+
+* Detailed explanations.
+* Code examples.
+* Architecture diagrams.
+* Technical references.
+* Troubleshooting notes.
+* Project implementation details.
+* Links to official documentation.
+* Interview questions and answers.
+
+Suggested OneNote sections:
+
+1. 00 — Learning Roadmap
+2. 01 — AI Fundamentals
+3. 02 — Java and Spring AI
+4. 03 — RAG and Vector Search
+5. 04 — Python Fundamentals
+6. 05 — Tool Calling and Agents
+7. 06 — AI Testing, Security and Production
+8. 07 — Project Notes
+9. 08 — Interview Questions and Revision
+
+At the end of each lesson, tell me what belongs in the physical notebook and what should go into OneNote.
+
+---
+
+# 6. My Learning Schedule and Development Environment
+
+## Time commitment
+
+I can spend approximately 10–15 hours per week learning AI.
+
+The schedule should be realistic and flexible.
+
+Do not force me to complete topics within a fixed number of days if I have not understood them properly.
+
+## My laptop
+
+* Model: ASUS Vivobook K3605ZC
+* Operating system: Windows 11 Home Single Language, 64-bit
+* CPU: Intel Core i5-12500H
+* RAM: 16 GB
+* GPU: NVIDIA GeForce RTX 3050 Laptop GPU, 4 GB VRAM
+* Integrated graphics: Intel Iris Xe
+* SSD: Approximately 476 GB
+
+## Tools already installed and working
+
+* IntelliJ IDEA Community Edition
+* Ollama
+* Qwen2.5-Coder 7B running locally through Ollama
+
+I have already managed to get a local AI model working.
+
+Therefore, do not spend unnecessary time repeating the installation process.
+
+We should start learning by using the existing setup.
+
+The laptop is adequate for learning and small prototypes, although its 4 GB of GPU memory limits performance and how much of a model can remain in GPU memory.
+
+Do not recommend buying a new computer at this stage.
+
+## Cost preference
+
+I prefer open-source and local-first tools wherever practical.
+
+I do not want to assume that I need a paid API subscription.
+
+Start with free/local tools and consider hosted APIs only if we encounter a concrete limitation that justifies using them.
+
+Avoid introducing unnecessary tools, subscriptions, or setup complexity.
+
+Use synthetic data in learning projects. Do not use confidential employer or customer information.
+
+---
+
+# 7. Our Agreed Learning Strategy
+
+The agreed strategy is to learn AI through a practical project while gradually understanding the underlying concepts.
+
+We should not spend months learning theory before building anything.
+
+At the same time, we should not blindly copy code without understanding what it does.
+
+The approach is:
+
+**Understand the concept → build a small example → explain the code → test it → record notes → recall the concept → track proficiency.**
+
+We will use Java and Spring Boot as the starting point because they build on my existing strengths.
+
+Python will be learned alongside the project when useful, rather than becoming a long prerequisite.
+
+We will start with Spring AI rather than attempting to learn Spring AI and LangChain4j simultaneously.
+
+---
+
+# 8. Our Main Practical Project
+
+## AI-Powered Banking Migration and Troubleshooting Assistant
+
+This will be our evolving project throughout the learning programme.
+
+The project will use synthetic data only.
+
+### Scenario
+
+Imagine a bank migrating millions of customer records from a legacy system to a new platform.
+
+Some records fail validation or migration.
+
+Engineers need to investigate incidents, understand error patterns, consult technical documents, and check migration status.
+
+We want to develop an AI assistant that helps engineers with these tasks.
+
+### Planned capabilities
+
+Initially, the assistant will answer simple questions using a locally running LLM.
+
+Later, it will be able to:
+
+1. Search technical documents.
+2. Answer questions using relevant documentation.
+3. Retrieve information from synthetic migration incident reports.
+4. Explain possible causes of migration failures using available evidence.
+5. Call approved Java backend functions to retrieve migration status and failure statistics.
+6. Support controlled, multi-step troubleshooting workflows.
+7. Avoid inventing migration statuses or unsupported facts.
+8. Respect access controls and protect sensitive information.
+9. Be tested for correctness, security, and reliability.
+10. Be monitored for latency, failures, and other production concerns.
+
+### Why this project?
+
+It connects my existing experience in Java, backend systems, banking, migration platforms, and architecture with AI engineering.
+
+It should eventually help demonstrate that I can build an AI-enabled enterprise application rather than merely use an AI chatbot.
+
+### Initial technology stack
+
+* Java
+* Spring Boot
+* Spring AI
+* Ollama
+* Qwen2.5-Coder running locally
+* Synthetic technical documents and incident reports
+* PostgreSQL with pgvector, or another suitable vector store, when we reach that stage
+* Python for small supporting scripts when useful
+
+Do not introduce all these technologies immediately.
+
+Add them only when the project requires them and I understand why they are needed.
+
+---
+
+# 9. The Complete Learning Roadmap
+
+The following roadmap has already been agreed upon.
+
+## Stage 1: LLM Fundamentals
+
+**Priority: Essential**
+
+Learn:
+
+* What AI is.
+* What machine learning is.
+* What deep learning is.
+* What a Large Language Model (LLM) is.
+* How an LLM generates text.
+* What tokens are.
+* What a context window is.
+* What prompts are.
+* What inference means.
+* Why LLMs can generate incorrect information.
+* What hallucinations are.
+* What structured output means.
+
+The objective is to understand what the model does before integrating it into an application.
+
+## Stage 2: Java AI Integration with Spring AI and Ollama
+
+**Priority: Start here after the basic concepts**
+
+Learn how a Java application communicates with a locally running AI model.
+
+Build a small Spring Boot application that accepts a question and returns an answer generated by the local model.
+
+Understand:
+
+* What Spring AI provides.
+* How Spring Boot communicates with Ollama.
+* How a prompt is sent to a model.
+* How the response returns to the application.
+* What happens when the model is unavailable.
+* How to structure the application.
+* How to debug requests and responses.
+
+The goal is a working Java AI application, not simply a command-line interaction with Ollama.
+
+## Stage 3: Python Fundamentals
+
+**Priority: Essential supporting skill**
+
+Learn Python gradually alongside the Java project.
+
+Focus initially on:
+
+* Basic syntax.
+* Variables and data types.
+* Lists, dictionaries, and other collections.
+* Functions.
+* Reading and writing JSON.
+* Making HTTP requests.
+* Basic scripts.
+* Virtual environments.
+* Simple API development when needed.
+
+Do not force me to master Python before I can start building AI applications in Java.
+
+## Stage 4: Retrieval-Augmented Generation (RAG)
+
+**Priority: Essential**
+
+Learn how an AI application can retrieve relevant information from external documents and provide it to an LLM before generating an answer.
+
+Topics:
+
+* Why a model may need information outside its existing knowledge.
+* Document ingestion.
+* Text extraction.
+* Chunking documents.
+* Retrieving relevant chunks.
+* Supplying retrieved information as context.
+* Generating an answer from that context.
+* Identifying unsupported answers.
+* Understanding common RAG failure modes.
+
+Build a prototype that answers questions from synthetic technical documents.
+
+## Stage 5: Embeddings and Vector Search
+
+**Priority: Essential for understanding RAG**
+
+Learn how text can be represented as numerical vectors and how those vectors can be used to find semantically similar content.
+
+Understand:
+
+* What an embedding is.
+* Why embeddings are useful.
+* How semantic similarity differs from keyword matching.
+* How a question can be compared with document chunks.
+* Why relevant retrieval matters for answer quality.
+
+Use small examples to compare keyword search with semantic search.
+
+## Stage 6: Vector Storage
+
+**Priority: After the RAG basics**
+
+Learn how embeddings and associated document information can be stored and retrieved.
+
+Potential starting option:
+
+* PostgreSQL with pgvector.
+
+Understand why a vector store may be useful, how retrieval works, and what trade-offs exist.
+
+Do not install or configure a vector database before we have established why the project needs it.
+
+## Stage 7: Tool Calling / Function Calling
+
+**Priority: Essential**
+
+Learn how an LLM can request that an application execute a particular function.
+
+For example, the assistant might need the current migration status of a batch.
+
+The model should not invent that status. It should request an approved backend function that retrieves the actual information.
+
+Understand the division of responsibility:
+
+* The model interprets the request and may request a tool.
+* The application validates the request.
+* The application checks authorization and input constraints.
+* The Java function performs the approved operation.
+* The result is returned to the model or application.
+* The final response is generated from the returned result.
+
+The model must not receive unrestricted access to the database or backend.
+
+## Stage 8: Controlled Agent Workflows
+
+**Priority: After tool calling**
+
+Learn how multiple AI and backend steps can be coordinated into a workflow.
+
+For example:
+
+1. Understand a reported migration failure.
+2. Retrieve relevant documentation.
+3. Request migration status from an approved tool.
+4. Compare the available evidence.
+5. Generate a troubleshooting explanation.
+6. Stop or ask for clarification when evidence is insufficient.
+
+Focus on bounded workflows with clear limits, failure handling, and stopping conditions.
+
+Do not begin by building an unconstrained autonomous agent.
+
+## Stage 9: AI Evaluation and Testing
+
+**Priority: Essential**
+
+Learn how to evaluate whether the AI application actually works reliably.
+
+Understand:
+
+* How to create a repeatable test dataset.
+* How to assess whether the correct documents were retrieved.
+* How to evaluate answer correctness.
+* How to test whether answers are supported by evidence.
+* How to identify hallucinations.
+* How to compare changes in prompts or retrieval strategies.
+* Why a few successful demonstrations are not enough.
+
+Treat AI behaviour as something that must be tested rather than simply trusted.
+
+## Stage 10: AI Security
+
+**Priority: Essential**
+
+Learn:
+
+* Prompt injection.
+* Malicious instructions inside retrieved documents.
+* Authorization.
+* Data leakage.
+* Input validation.
+* Output validation.
+* Secure tool execution.
+* Protection of sensitive information.
+
+Understand that instructions found inside an untrusted document must not override application security controls.
+
+## Stage 11: Observability
+
+**Priority: Essential for production**
+
+Learn how to monitor and debug AI applications.
+
+Track relevant information such as:
+
+* Request latency.
+* Model response time.
+* Errors and failures.
+* Retrieval results.
+* Model usage and token consumption.
+* Tool execution results.
+* Quality-related signals.
+
+Connect these ideas to my existing experience with backend monitoring and production troubleshooting.
+
+## Stage 12: Deployment and Model-Serving Basics
+
+Learn how to package and deploy the application and understand the operational implications of running models locally versus using hosted services.
+
+Build on my existing knowledge of Java, Spring Boot, Docker, and cloud platforms.
+
+## Stage 13: MLOps and Model Lifecycle
+
+**Priority: Later and optional**
+
+Learn more about model lifecycle management, training pipelines, and model-serving infrastructure only if my target role or future work requires them.
+
+MLOps is not my primary initial career direction.
+
+---
+
+# 10. Proficiency Tracking
+
+We agreed to track proficiency using five levels.
+
+| Level                         | Meaning                                                                                                                   |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 — Not started               | I have not studied the topic.                                                                                             |
+| 1 — Familiar                  | I recognise the concept and can explain it after reviewing my notes.                                                      |
+| 2 — Implemented with guidance | I can follow instructions and build or practise the concept.                                                              |
+| 3 — Independent               | I can implement, debug, and explain it without step-by-step guidance.                                                     |
+| 4 — Interview-ready           | I can explain architecture, trade-offs, design decisions, limitations, and failure modes, and handle follow-up questions. |
+
+Do not mark a topic as interview-ready simply because I have watched a course or read documentation.
+
+Use evidence such as:
+
+* Recall questions.
+* Coding exercises.
+* Code reviews.
+* Debugging exercises.
+* Architecture discussions.
+* Independent explanations.
+
+The purpose is to measure actual capability, not the number of hours spent studying.
+
+---
+
+# 11. Excel Learning Tracker
+
+A workbook named `AI_GenAI_Learning_Progress_Tracker.xlsx` was created in the original conversation.
+
+If I can access it in the new instance, continue using it. Otherwise, recreate the workbook with the same structure.
+
+It contains four sheets.
+
+### Sheet 1: Roadmap
+
+Tracks:
+
+* Learning order.
+* Track.
+* Topic or milestone.
+* Priority.
+* Learning goal.
+* Layman mental model.
+* Evidence of completion.
+* Status.
+* Proficiency from 0–4.
+* Suggested week.
+* Completion date.
+* Notes and next action.
+
+Statuses:
+
+* Not Started
+* In Progress
+* Blocked
+* Completed
+
+### Sheet 2: Weekly Tracker
+
+Tracks:
+
+* Week.
+* Learning focus.
+* Planned hours.
+* Actual hours.
+* What I built or practised.
+* What I can explain without notes.
+* Confidence.
+* Blockers or questions.
+* Adjustments for the next week.
+
+### Sheet 3: Glossary
+
+Tracks:
+
+* Term.
+* Full form.
+* Plain-English meaning.
+* Analogy or background.
+* Example from our project.
+* My explanation in my own words.
+* Confidence.
+* Last reviewed date.
+* Next review date.
+
+### Sheet 4: Session Log
+
+Tracks:
+
+* Date.
+* Session number.
+* Topic.
+* Key idea in one sentence.
+* Analogy or story.
+* Hands-on task.
+* What confused me.
+* Recall test.
+* Proficiency before and after.
+* Next step.
+
+The initial schedule is approximately 12 weeks at around 10 hours per week. This is a starting estimate, not a deadline.
+
+Adjust the roadmap according to my actual progress.
+
+---
+
+# 12. Books and Documentation
+
+I would appreciate book recommendations and references when they are useful, but I do not want to be required to read an entire book before building something.
+
+A book mentioned in the previous discussion was:
+
+**AI Engineering by Chip Huyen**
+
+It focuses on building applications around foundation models and may become useful as I progress.
+
+Use official documentation when implementation details matter, particularly for Spring AI and Ollama.
+
+If framework APIs or recommended approaches have changed, verify the current documentation rather than relying on outdated examples.
+
+Distinguish conceptual explanations from details that depend on the current version of a framework.
+
+---
+
+# 13. Concepts Introduced in Our First Lesson
+
+We started with a simplified conceptual map:
+
+```text
+Artificial Intelligence (AI)
+          |
+          +-- Rule-based systems
+          |
+          +-- Machine Learning
+                   |
+                   +-- Deep Learning
+                            |
+                            +-- Large Language Models (LLMs)
+                                      |
+                                      +-- GenAI applications
+                                                |
+                                                +-- RAG
+                                                +-- Tool calling
+                                                +-- Agent workflows
+```
+
+This is a simplified learning diagram, not a complete taxonomy of AI.
+
+The following ideas have been introduced but have not yet been studied in depth.
+
+### Artificial Intelligence (AI)
+
+The broader field concerned with building systems that perform tasks associated with intelligence.
+
+### Machine Learning
+
+An approach in which systems learn patterns from data.
+
+### Deep Learning
+
+Machine learning based on neural networks with multiple layers.
+
+### Large Language Model (LLM)
+
+A model trained to process and generate language.
+
+### Basic LLM mental model
+
+An LLM generates output token by token based on the context it receives.
+
+### Important limitation
+
+A fluent answer is not necessarily a correct answer.
+
+### Model versus application
+
+An LLM is the model.
+
+An AI application is the software system built around the model.
+
+In our planned project, the local Qwen model is one component, while the Spring Boot application will be the AI application.
+
+### RAG
+
+RAG stands for Retrieval-Augmented Generation.
+
+We have only introduced the analogy of an open-book examination: retrieve relevant pages and provide them as context before generating an answer.
+
+I have not yet learned the technical mechanics of RAG.
+
+Do not assume I understand it just because the acronym has been introduced.
+
+---
+
+# 14. Suggested First Physical Notebook Entry
+
+The following short notes were suggested for the first page of my physical notebook.
+
+## Topic: AI and LLM Fundamentals
+
+* AI is the broader field of building systems that perform tasks associated with intelligence.
+* Machine learning learns patterns from data.
+* Deep learning uses multi-layer neural networks.
+* An LLM is a model trained to process and generate language.
+* An LLM generates responses token by token based on context.
+* Fluent output is not necessarily correct.
+* Our goal is to build reliable applications around LLMs, not merely send prompts.
+
+We can expand these notes as I learn more.
+
+---
+
+# 15. Exact Current Checkpoint
+
+**This is where the previous conversation stopped. Resume here.**
+
+The assistant asked me three baseline questions to check my initial understanding.
+
+I have not answered them yet.
+
+Please ask me to answer them in my own words. Do not answer them on my behalf before I attempt them.
+
+### Question 1
+
+What is the difference between an LLM and an AI application?
+
+### Question 2
+
+If an LLM can generate an answer, why might a banking application still need a database or backend service?
+
+### Question 3
+
+Since I already have Qwen running through Ollama, what do I think Ollama is doing in our setup?
+
+Use my answers to assess my starting understanding. Kindly correct any misunderstandings and explain why the correct answer makes sense.
+
+Then continue the lessons gradually.
+
+The likely next topics are:
+
+1. What a token is.
+2. What a context window is.
+3. How prompts and model responses work.
+4. How to communicate with the local model from Java.
+5. How Spring AI fits into the architecture.
+
+Do not try to teach all these topics in a single response.
+
+Start with the checkpoint questions, discuss my answers, and move forward one step at a time.
+
+---
+
+# 16. Final Instructions for the Assistant
+
+Please follow these principles throughout the programme.
+
+1. Continue from this handover instead of restarting the career discussion.
+2. Remember that I am an AI novice but an experienced Java/backend engineer.
+3. Define technical terms and acronyms when first introduced.
+4. Explain the background and problem that motivated a concept where useful.
+5. Use layman analogies, followed by accurate technical explanations.
+6. Connect concepts to Java, Spring Boot, databases, distributed systems, and enterprise architecture when appropriate.
+7. Use diagrams and step-by-step code walkthroughs when they improve understanding.
+8. Start with local Ollama and Spring AI, using my existing setup.
+9. Keep the learning project practical and build it incrementally.
+10. Introduce Python gradually alongside the project.
+11. Avoid unnecessary paid services, subscriptions, installations, and hardware purchases.
+12. Help me maintain my physical notebook, OneNote, glossary, and Excel progress tracker.
+13. Give me small exercises and recall questions so that I actively learn.
+14. Do not mark me proficient based only on passive reading or watching videos.
+15. End lessons with a concise notebook-ready summary.
+16. Adjust the pace to my understanding rather than rushing to complete the roadmap.
+17. Keep the long-term goal in view: becoming capable of building reliable enterprise GenAI applications and progressing toward AI architecture roles.
+
+**Please begin by asking me the three questions in Section 15.**
+
+---
+
+### How to use this handover
+
+1. Copy everything inside the document above.
+2. Paste it into a new ChatGPT or Copilot conversation on your office laptop.
+3. Ask the new assistant to follow the final instructions and continue from Section 15.
+4. If the new instance cannot access the Excel workbook, upload the existing workbook there or ask it to recreate the tracker from Section 11.
+
+One practical note: if your office laptop is subject to company data policies, use only approved tools and keep our learning project based on synthetic data.
+
+I can also create a simple visual roadmap diagram showing the complete learning journey from Java backend engineering to GenAI application development and AI architecture.
